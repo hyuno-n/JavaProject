@@ -5,10 +5,16 @@
 
 # 프리뷰
 <img width="959" alt="image" src="https://github.com/hyuno-n/JavaProject/assets/69071499/35ed96aa-8a28-4bb9-a0ef-3962424cf60b">
+<img width="959" alt="image" src="https://github.com/hyuno-n/JavaProject/assets/69071499/97f99f79-19d5-458f-90cb-d79e99ddccf7">
+
 
 # 기능
 - 다양한 음악 트랙 제공
-- 게임 난이도 설정 (쉬움, 어려움)
+<img width="957" alt="image" src="https://github.com/hyuno-n/JavaProject/assets/69071499/f1920106-203f-4a62-9705-159cbe20c983">
+<img width="961" alt="image" src="https://github.com/hyuno-n/JavaProject/assets/69071499/88f762dd-30ee-462d-a037-2958d577b1f1">
+<img width="957" alt="image" src="https://github.com/hyuno-n/JavaProject/assets/69071499/112cb429-5249-4084-b892-d98953c6fe4b">
+      
+- 게임 난이도 설정 (쉬움, 어려움)  
 - 랭킹 기능 지원
 
 # 환경 설정
