@@ -3,9 +3,9 @@
 - 이 프로젝트는 Java 언어를 사용하여 개발된 간단한 리듬 게임입니다. 사용자는 음악과 함께 키보드 입력을 통해 게임을 진행할 수 있습니다.
 
 # 기능
-1. 다양한 음악 트랙 제공
-2. 게임 난이도 설정 (쉬움, 어려움)
-3. 랭킹 기능 지원
+- 다양한 음악 트랙 제공
+- 게임 난이도 설정 (쉬움, 어려움)
+- 랭킹 기능 지원
 
 # 환경 설정
 ## 요구 사항
@@ -16,9 +16,9 @@
 - JLayer 1.0.1: MP3 파일 재생을 위한 라이브러리
 - MySQL Connector/J 8.0.22: MySQL 데이터베이스와의 연동을 위한 JDBC 드라이버
 ## 설정
-1. 프로젝트를 Eclipse IDE에 import합니다.
-2. Build Path에 jl1.0.1.jar와 mysql-connector-java-8.0.22.jar를 추가합니다.
-3. MySQL 데이터베이스를 설치하고, 스키마와 테이블을 설정합니다. (자세한 사항은 코드와 함께 제공된 DBConnection.java 파일을 참조하세요)
+- 프로젝트를 Eclipse IDE에 import합니다.
+- Build Path에 jl1.0.1.jar와 mysql-connector-java-8.0.22.jar를 추가합니다.
+- MySQL 데이터베이스를 설치하고, 스키마와 테이블을 설정합니다. (자세한 사항은 코드와 함께 제공된 DBConnection.java 파일을 참조하세요)
 
 # 실행 방법
 1. Eclipse에서 DynamicBeat.java 파일을 실행합니다.
