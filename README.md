@@ -1,6 +1,10 @@
 # DynamicBeat - Java 리듬 게임 프로젝트
 
-- 이 프로젝트는 Java 언어를 사용하여 개발된 간단한 리듬 게임입니다. 사용자는 음악과 함께 키보드 입력을 통해 게임을 진행할 수 있습니다.
+이 프로젝트는 Java 언어를 사용하여 개발된 간단한 리듬 게임입니다.  
+사용자는 음악과 함께 키보드 입력(d, f, space bar, j, k)을 통해 게임을 진행할 수 있습니다.
+
+# 프리뷰
+<img width="959" alt="image" src="https://github.com/hyuno-n/JavaProject/assets/69071499/35ed96aa-8a28-4bb9-a0ef-3962424cf60b">
 
 # 기능
 - 다양한 음악 트랙 제공
